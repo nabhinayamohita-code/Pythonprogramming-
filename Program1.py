@@ -1,4 +1,3 @@
-#This is bqsic print statement
-print("I'm Abhinaya")
+#This is basic print statement
 print("I like Pizza")
 print("It's really good")
